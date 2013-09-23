@@ -11,8 +11,9 @@ So how great is it? This horribly old-fashioned HTML5:
     <head>
     <title>Sigvehtml</title>
     <meta charset="utf8" />
-    <script src=//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js></script>
-    <link rel=stylesheet src=//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css>
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
     </head>
     <body>
 
