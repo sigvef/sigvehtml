@@ -1,9 +1,8 @@
-
 # Sigvehtml
 
 Finally a HTML that you can sight-read.
 
-So how great is it? This horribly old-fashioned HTML5:
+So how great is it? This is what your regular horribly old-fashioned HTML5 looks without sigvehtml:
 
 ```
 <!DOCTYPE html>
@@ -65,7 +64,7 @@ So how great is it? This horribly old-fashioned HTML5:
 </html>
 ```
 
-Looks like this in sigvehtml:
+This is the same page rewritten in sigvehtml:
 
 ```
 
@@ -121,3 +120,7 @@ Looks like this in sigvehtml:
 | web development is over!                          | |               |
 #===================================================# #===============#
 ```
+
+And finally, here it is rendered in chrome after it has been compiled:
+
+![http://i.imgur.com/cyJSPUe.png]
