@@ -2,69 +2,7 @@
 
 Finally a HTML that you can sight-read.
 
-So how great is it? This is what your regular horribly old-fashioned HTML5 looks without sigvehtml:
-
-```
-<!DOCTYPE html>
-<html>
-    <head>
-    <title>Sigvehtml</title>
-    <meta charset="utf8" />
-    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
-    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
-    </head>
-    <body>
-
-    <h1>Sigvehtml</h1>
-
-    <img src="elephant.png" />
-
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-9">
-                <p>
-                    Did you know that any piece of code is likely to be read over a hundred times more often than is written?
-                    Most of a developer's time is spent and trying to understand code.
-                    Sigvehtml is a HTML dialect which focuses on readability and the ability to get a quick overview. 
-                </p>
-
-                <p>
-                    With sigvehtml, there is no longer any need to wade trough thickets of nested divs and spans and what-have-you's to get to a real understanding of what is going on.
-                    Throw the boilerplate soup out of the window, and increase your productivity hundred-fold by re-writing all your code to sigvehtml.
-                    You wont regret it.
-                </p>
-
-                <p>
-                    Remember: you only need to rewrite to sigvehtml once.
-                    And then you can read again and again and again, each time fully aware of what the finished output is going to look like.
-                    The dark ages of web development is over!
-                </p>
-            </div>
-            <div class="col-xs-3">
-                <ul>
-                    <li>
-                        <a href="home">Home</a>
-                    </li>
-                    <li>
-                        <a href="download">Download</a>
-                    </li>
-                    <li>
-                        <a href="legal">Legal</a>
-                    </li>
-                    <li>
-                        <a href="about-us">About Us</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-
-    </body>
-</html>
-```
-
-This is the same page rewritten in sigvehtml:
+So how great is it? This is a page written in sigvehtml:
 
 ```
 
@@ -121,6 +59,6 @@ This is the same page rewritten in sigvehtml:
 #===================================================# #===============#
 ```
 
-And finally, here it is rendered in chrome after it has been compiled:
+Here it is rendered in chrome after it has been compiled:
 
 ![](http://i.imgur.com/cyJSPUe.png)
