@@ -123,4 +123,4 @@ This is the same page rewritten in sigvehtml:
 
 And finally, here it is rendered in chrome after it has been compiled:
 
-![http://i.imgur.com/cyJSPUe.png]
+![](http://i.imgur.com/cyJSPUe.png)
